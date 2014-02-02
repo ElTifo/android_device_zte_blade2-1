@@ -30,7 +30,7 @@ BOARD_CACHE_DEVICE := /dev/block/mtdblock4
 BOARD_CACHE_FILESYSTEM := auto
 BOARD_CACHE_FILESYSTEM_OPTIONS := rw
 
-BOARD_CUSTOM_RECOVERY_KEYMAPPING := device/zte/blade2/recovery/recovery_ui.c
+BOARD_CUSTOM_RECOVERY_KEYMAPPING := device/zte/blade2_s/recovery/recovery_ui.c
 
 BOARD_HAS_FLIPPED_SCREEN := true
 
