@@ -25,10 +25,10 @@ char* MENU_HEADERS[] = { "Use vol keys to highlight and home to select.",
                          NULL };
 
 char* MENU_ITEMS[] = { "reboot system now",
-                       "apply sdcard:update.zip",
+                       "install zip from sdcard",
+                       "install zip from sideload",
                        "wipe data/factory reset",
                        "wipe cache partition",
-                       "install zip from sdcard",
                        "backup and restore",
                        "mounts and storage",
                        "advanced",
