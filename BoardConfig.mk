@@ -1,5 +1,12 @@
 USE_CAMERA_STUB := true
 
+# CPU
+TARGET_ARCH := arm
+TARGET_CPU_ABI := armeabi
+TARGET_CPU_ABI2 := armeabi-v6l
+TARGET_CPU_VARIANT := arm11
+TARGET_ARCH_VARIANT := armv6-vfp
+
 # inherit from the proprietary version
 -include vendor/zte/blade2/BoardConfigVendor.mk
 
