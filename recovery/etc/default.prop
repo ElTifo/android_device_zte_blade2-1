@@ -2,15 +2,14 @@
 # ADDITIONAL_DEFAULT_PROPERTIES
 #
 ro.secure=0
-ro.allow.mock.location=0
+ro.allow.mock.location=1
 ro.debuggable=1
 persist.service.adb.enable=1
-ro.modversion=clockwork-4.0.1.5-blade2
+ro.modversion=clockwork-6.0.2.8-blade2
 ro.product.device=blade2
-ro.product.name=P729B
+ro.product.name=blade2
 usb.default.pid=0x1354
 persist.usb.default.pid=0x1354
 ro.build.date=<DATE>
 ro.build.date.utc=<DATEUTC>
-ro.build.owner=sebastian404
-ro.build.url=http://android.podtwo.com/
+ro.build.owner=ElTifo
